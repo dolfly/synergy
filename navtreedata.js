@@ -128,13 +128,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "AboutDialog_8cpp.html",
-"Diagnostic_8h.html",
-"KeyTypes_8h.html#a43357810a7dfe9d948d4aa7fbcc83c43",
-"MSWindowsDesks_8cpp.html#a8365c5fe4c638efc320611d3e6dbc8f7",
-"OSXKeyState_8cpp.html",
-"SocketMultiplexer_8cpp.html",
-"classAppUtil.html#a92e87ecf583104d6c1db090033fdab9b",
-"classArchNetworkWinsock.html#a513ca0e0415e1944059ec3e115c40a2d",
+"Diagnostic_8h_source.html",
+"KeyTypes_8h.html#a43eb3763cefc837f514bf3dda946298d",
+"MSWindowsDesks_8cpp.html#a847d827f781702b7b7ecf13a70d0cf56",
+"OSXKeyState_8cpp.html#a386a5935b8ea8f99fbb01f36910abebf",
+"SocketMultiplexer_8h.html",
+"classAppUtil.html#ab25364eccf20280b7038ba939096fcc8",
+"classArchNetworkWinsock.html#a56655c50a0541f69f1e2b49f5a1c9496",
 "classClientProxy1__1.html",
 "classIApp.html#a5c774bcc1a09378adc87ed05e1b616d7",
 "classIPlatformScreen.html#a22e026489cf9eba85c95d1fb7a3935d1",
@@ -142,15 +142,15 @@ var NAVTREEINDEX =
 "classMSWindowsScreen.html#a628e5ed225fa31c0181091357f499726",
 "classPacketStreamFilter.html",
 "classScreenSetupView.html#a3bf747fea4659b6634afebdaec0d0944",
-"classSettings.html#ae251f1cdec2bce2dbbf133c18550888c",
-"classUnicode.html#a6cf183d92569cbd9d50211908810ffec",
-"classXWindowsScreen.html#ac62d6b5b8242feb2819086a550d23836",
-"classdeskflow_1_1KeyMap.html#aa20482dc7cf49a36c89397da1d3001ec",
+"classSettings.html#ae9e80e06caddd4c619dc286848b1f187",
+"classUnicode.html#a7ce4b7916c31ff9b06aa3936dd53bc5c",
+"classXWindowsScreen.html#acd8d3403716eebd6b877f3940d2712bb",
+"classdeskflow_1_1KeyMap.html#aa22a6d7a665c36d1f4fb04925918f309",
 "classdeskflow_1_1gui_1_1CoreProcess.html#ab305459e98593bc76e894c883f70cb9f",
 "classdeskflow_1_1server_1_1Config.html#afb04dc32eaa76da1b5a2c303b516c24e",
-"functions_func_h.html",
-"namespacedeskflow.html#a34787a880fd439e02383f336665d7bc2a662eedb3d21ec748ac1199d4357c8bd5",
-"structKeyNameMapEntry.html#a20a386e1901cc1f45d400cbac569ea8e"
+"functions_func_g.html",
+"namespacedeskflow.html#a34787a880fd439e02383f336665d7bc2a60fcab4d750adf8fc79537e6e61769c8",
+"structKeyNameMapEntry.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
